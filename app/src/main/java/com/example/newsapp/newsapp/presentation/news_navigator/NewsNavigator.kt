@@ -60,8 +60,9 @@ fun NewsNavigator() {
     selectedItem = remember(key1 = backStackState) {
         when (backStackState?.destination?.route) {
             Route.HomeScreen.route -> 0
-            Route.SearchScreen.route -> 1
+            Route.CategoryScreen.route -> 1
             Route.BookmarkScreen.route -> 2
+            Route.SourceScreen.route -> 3
             else -> 0
         }
     }
