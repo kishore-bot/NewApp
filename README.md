@@ -13,7 +13,7 @@ This News App is built using Jetpack Compose, Dagger Hilt, MVVM architecture, Da
 ![Home Screen - Hot News](https://i.postimg.cc/Dz0Wz3yH/Home-Screen-Hot-News.png)
 
 ### Search Screen
-![Search Screen]https://i.postimg.cc/nh0jZhZq/Search-Screen.png)
+![Search Screen](https://i.postimg.cc/nh0jZhZq/Search-Screen.png)
 
 ### News Sources Screen
 ![News Sources Screen](https://i.postimg.cc/fRwt694w/News-Sources-Screen.png)
